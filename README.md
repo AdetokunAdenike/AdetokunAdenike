@@ -8,7 +8,7 @@ Hi, I’m **Adenike Adetokun**, a passionate Software Engineer and Cloud Enginee
 
 I thrive at the intersection of **code, creativity, and community**—whether it's through building impactful applications, contributing to open source, creating technical content, or fostering developer communities.
 
-I'm committed to continuous learning and enjoy documenting my journey to help others grow too. You’ll often find me working on web projects, exploring cloud tools, writing blog posts, or sharing practical tips on YouTube.
+I'm committed to continuous learning and enjoy documenting my journey to help others grow too. You’ll often find me working on DevOps projects, exploring cloud tools, writing blog posts, or contributing to my community.
 
 ---
 
@@ -33,9 +33,8 @@ I'm committed to continuous learning and enjoy documenting my journey to help ot
 ---
 
 ### 📊 GitHub Stats
-
-|   |   |
-| - | - |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdetokunAdenike&show_icons=true&include_all_commits=true&hide_border=true" alt="Adetokun's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdetokunAdenike&langs_count=8&layout=compact&hide_border=true" alt="Adetokun's GitHub stats" /> |
+| ------------- | ------------- |
 
 ---
 
