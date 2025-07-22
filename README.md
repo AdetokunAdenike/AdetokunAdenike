@@ -6,7 +6,7 @@
 
 Hi, I’m **Adenike Adetokun**, a passionate Software Engineer and Cloud Engineering student at [AltSchool Africa](https://altschoolafrica.com/schools/engineering), Class of 2025.
 
-I thrive at the intersection of **code, creativity, and community**—whether it's through building impactful applications, contributing to open source, creating technical content, or fostering developer communities.
+I thrive at the intersection of **code, creativity, and community** whether it's through building impactful applications, contributing to open source, creating technical content, or fostering developer communities.
 
 I'm committed to continuous learning and enjoy documenting my journey to help others grow too. You’ll often find me working on DevOps projects, exploring cloud tools, writing blog posts, or contributing to my community.
 
