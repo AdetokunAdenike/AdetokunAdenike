@@ -4,7 +4,7 @@
 
 ### 👩🏾‍💻 About Me
 
-Hi, I’m **Adenike Adetokun**, a passionate Software Engineer and Cloud Engineering student at [AltSchool Africa](https://altschoolafrica.com/schools/engineering), Class of 2025.
+Hi, I’m **Adenike Adetokun**, a passionate Software Engineer and Cloud Engineering student at [AltSchool Africa](https://engineering.altschoolafrica.com/programs/cloud-engineering), Class of 2025.
 
 I thrive at the intersection of **code, creativity, and community** whether it's through building impactful applications, contributing to open source, creating technical content, or fostering developer communities.
 
@@ -20,7 +20,7 @@ I'm committed to continuous learning and enjoy documenting my journey to help ot
 * 🛠️ Interests: Open source, backend development, API design, and infrastructure automation
 * 🌟 Fun fact: I love turning complex technical concepts into beginner-friendly tutorials
 * 🤝 I’m open to: Hackathons, open-source contributions, internships, and junior developer roles
-* 📫 Reach me: [adetokunadenike@gmail.com](mailto:adetokunadenike@gmail.com) | [Resume (Link Placeholder)](#)
+* 📫 Reach me: [adetokunadenike@gmail.com](mailto:adetokunadenike@gmail.com) | [Resume](#)
 
 ---
 
