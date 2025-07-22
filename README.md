@@ -26,7 +26,7 @@ I'm committed to continuous learning and enjoy documenting my journey to help ot
 
 ### 🔗 Find Me Online
 
-* 💻 [My Blog on Medium](https://medium.com/adetokunadenike) – I write about tech, learning paths, and coding tips
+* 💻 [My Blog on Medium](https://medium.com/@Cloud_baby) – I write about tech, learning paths, and coding tips
 * 📺 [My YouTube Channel](https://www.youtube.com/channel/UCi4YhhEhmkkibS0Wfr_26xw) – Practical tech tutorials and personal projects
 * 🛠️ [My Open Source Projects](https://github.com/AdetokunAdenike) – Feel free to explore and contribute!
 
